@@ -1,1 +1,1 @@
-# TomoWallet-Android
+# TomoWallet
