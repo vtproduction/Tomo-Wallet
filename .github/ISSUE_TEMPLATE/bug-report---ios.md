@@ -2,7 +2,7 @@
 name: Bug report - IOS
 about: Create a IOS report to help us improve
 title: ''
-labels: bug, IOS
+labels: IOS, bug
 assignees: ''
 
 ---
