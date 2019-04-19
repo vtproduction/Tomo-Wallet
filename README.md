@@ -26,6 +26,6 @@ DApp-browser bridges the gap between TomoWallet and DApp. DApp browser on TomoWa
 ## Contributing
 If you have any questions, suggestions, or trouble while using TomoWallet, feel free to open an issue. Your information will help team to make the product better.
 
-- If you find bugs or crashes, you can create[ report for IOS version](https://github.com/vtproduction/Tomo-Wallet/issues/new?assignees=&labels=IOS%2C+bug&template=bug-report---ios.md&title=) or [report for Android version](faces://github.com/vtproduction/Tomo-Wallet/issues/new?assignees=&labels=Android%2C+bug&template=bug-report---android.md&title=)
+- If you find bugs or crashes, you can create[ report for IOS version](https://github.com/vtproduction/Tomo-Wallet/issues/new?assignees=&labels=IOS%2C+bug&template=bug-report---ios.md&title=) or [report for Android version](https://github.com/vtproduction/Tomo-Wallet/issues/new?assignees=&labels=Android%2C+bug&template=bug-report---android.md&title=)
 - If you have any idea or suggestion to the application, we can [make a discussion](https://github.com/vtproduction/Tomo-Wallet/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
 - For other questions, [please ask](https://github.com/vtproduction/Tomo-Wallet/issues/new?assignees=&labels=question&template=question.md&title=)
